@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Генератор Чисел</string>
+    <string name="generate_button_text">Згенерувати числа</string>
+    <string name="numbers_placeholder">Згенеровані числа:</string>
+</resources>

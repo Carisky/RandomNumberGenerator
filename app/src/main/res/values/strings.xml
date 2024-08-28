@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+    <string name="generate_button_text">Generate Numbers</string>
+    <string name="numbers_placeholder">Generated Numbers:</string>
+</resources>
